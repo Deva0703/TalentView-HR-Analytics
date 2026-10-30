@@ -102,7 +102,6 @@ Explores employee attrition across departments, job roles, age groups, tenure gr
 | File | Description |
 |---|---|
 | `TalentView_HR_Analytics.pbix` | Complete Power BI dashboard |
-| `HR-Employee-Attrition.csv` | Source dataset |
 | `Page1_Workforce_Overview.png` | Workforce dashboard preview |
 | `Page2_Attrition_Analysis.png` | Attrition dashboard preview |
 
@@ -112,7 +111,13 @@ Explores employee attrition across departments, job roles, age groups, tenure gr
 
 This project uses the **IBM HR Analytics Employee Attrition & Performance** dataset.
 
-The dataset contains employee-related attributes such as age, department, job role, education, job satisfaction, monthly income, years at company, and attrition status.
+The dataset contains 1,470 employee records and 35 attributes, including age, department, job role, education, job satisfaction, monthly income, years at company, and attrition status.
+
+**Original Dataset Source:**
+
+[Kaggle – IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+Please refer to the original dataset page for its licensing and usage terms.
 
 ---
 
